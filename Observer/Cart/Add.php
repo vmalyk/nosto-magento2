@@ -45,7 +45,7 @@ use Magento\Framework\Stdlib\CookieManagerInterface;
 use Magento\Quote\Model\Quote;
 use Magento\Quote\Model\Quote\Item;
 use Nosto\Helper\SerializationHelper;
-use Nosto\Object\Event\Cart\Update;
+use Nosto\Model\Event\Cart\Update;
 use Nosto\Operation\CartOperation;
 use Nosto\Request\Http\HttpRequest;
 use Nosto\Tagging\Helper\Account as NostoHelperAccount;

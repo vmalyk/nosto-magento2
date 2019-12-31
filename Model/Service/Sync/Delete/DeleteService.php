@@ -41,7 +41,7 @@ use Magento\Store\Model\Store;
 use Nosto\Exception\MemoryOutOfBoundsException;
 use Nosto\NostoException;
 use Nosto\Tagging\Model\Product\Cache\CacheRepository;
-use Nosto\Object\Signup\Account as NostoSignupAccount;
+use Nosto\Model\Signup\Account as NostoSignupAccount;
 use Nosto\Tagging\Helper\Account as NostoHelperAccount;
 use Nosto\Tagging\Helper\Data as NostoHelperData;
 use Nosto\Tagging\Helper\Url as NostoHelperUrl;
